@@ -1,0 +1,84 @@
+🎯 Prompt 1 – Job Application Email
+
+You are a job applicant.
+
+Write a short and professional email to apply for the following role at the given company.
+
+Role: {{Role}}  
+Company: {{Company}}  
+Resume Keywords: {{Summary}}
+
+Keep it under 150 words. Start with “Dear Hiring Manager,” and close with a polite thank you.
+
+
+
+
+✍️ Prompt 2 – Cover Letter Generator
+
+You are a career coach.
+
+Write a personalized cover letter using the resume and job description below.
+
+Resume:
+{{Resume}}
+
+Job Description:
+{{Job_Description}}
+
+Tone: {{Tone}}
+
+Limit to 200 words. Start with “Dear Hiring Manager,” and end with a confident close.
+
+
+
+
+🧠 Prompt 3 – Resume Feedback
+
+You're an expert resume reviewer.
+
+Analyze the resume below and provide 3 concise suggestions to improve it for job applications.
+
+Resume: {{Resume}}
+
+Be specific. Avoid fluff. Target readability and impact.
+
+
+
+
+📑 Prompt 4 – ATS Optimization
+
+Rewrite the resume below to improve its performance against applicant tracking systems (ATS).
+
+Resume:
+{{Resume}}
+
+Make it more keyword-rich, action-oriented, and aligned with standard formatting.
+
+
+
+
+🧪 Prompt 5 – HR Screening Simulation
+
+You're a hiring manager at a mid-sized company.
+
+Would you shortlist this candidate based on their resume?
+
+Resume:
+{{Resume}}
+
+Answer with YES or NO, and give 2 reasons.
+
+
+
+
+🔗 Prompt 6 – Job Match Analyzer
+
+Compare the resume with the job description below.
+
+Resume:
+{{Resume}}  
+Job Description:
+{{Job_Description}}
+
+Highlight 3 specific matches that make this resume suitable for the role.
+
